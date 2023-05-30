@@ -1,4 +1,3 @@
-select seller_id,
+SELECT  seller_id,
         seller_state
-
-from tb_sellers
+FROM tb_sellers
